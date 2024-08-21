@@ -6,6 +6,6 @@ def main():
     view.main()
 
 
-# Main function call to run the program
+# Main function call to run the programpow
 if __name__ == '__main__':
     main()
